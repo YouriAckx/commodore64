@@ -1,0 +1,14 @@
+.label sprite=$91a
+.label x_right=$891
+.label wait_rast=$85b
+.label munch=$860
+.label main_loop=$859
+.label cycle_sprite=$8af
+.label end=$8c5
+.label on_char=$86c
+.label munch_it=$871
+.label msg=$8c6
+.label x_left=$884
+.label x_test=$87f
+.label prepare_sprite=$824
+.label print_msg=$810
